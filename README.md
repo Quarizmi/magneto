@@ -74,11 +74,11 @@ cd magneto
 
 Magneto works on its own, but it's also part of Quarizmi's end-to-end paid-search system:
 
-- **[EKEP](../ekep)** — discovers long-tail keywords
-- **[Bidbot](../bidbot)** — decides bids and which keywords to turn on or off
-- **[Usable](../usable)** — builds full campaigns with the user in the loop
+- **[EKEP](https://github.com/Quarizmi/ekep)** — discovers long-tail keywords
+- **[Bidbot](https://github.com/Quarizmi/bidbot)** — decides bids and which keywords to turn on or off
+- **[Usable](https://github.com/Quarizmi/usable)** — builds full campaigns with the user in the loop
 - **Magneto** — writes high-relevance ads for every keyword _(you are here)_
-- **[Health Checker](../health-checker)** — grades an existing Google Ads account (standalone)
+- **[Health Checker](https://github.com/Quarizmi/healthchecker)** — grades an existing Google Ads account (standalone)
 
 ## Use it yourself, or work with us
 
